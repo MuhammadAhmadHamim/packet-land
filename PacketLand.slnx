@@ -1,8 +1,10 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/PacketLand.Core/PacketLand.Core.csproj" />
+    <Project Path="src/PacketLand.Server/PacketLand.Server.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/PacketLand.Core.Tests/PacketLand.Core.Tests.csproj" />
+    <Project Path="tests/PacketLand.Server.Tests/PacketLand.Server.Tests.csproj" />
   </Folder>
 </Solution>
